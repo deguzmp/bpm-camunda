@@ -3,6 +3,10 @@
 * WSL - Ubuntu22.04
 * camunda modeler (linux)
 
+# Preparation
+1. Run the camunda server.
+2. Run the camunda modeler.
+
 # Creating and Running the model
 1. Create the model.
 2. Setup `Time to Live` under `History Cleanup` in the model properties
